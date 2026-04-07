@@ -17,7 +17,7 @@
 
 ---
 
-## 🏢 Who We Are
+##  Who We Are
 
 Founded in 2025, **Megabre** is a young and dynamic company that provides innovative and creative solutions in the technology sector. With our motto **"Creative Solutions at the Peak"**, we aim to provide the highest quality service in our customers' digital transformation journey.
 
@@ -25,28 +25,28 @@ Since our establishment, we have been successfully maintaining customer satisfac
 
 With our innovative approaches and strong technical infrastructure, we aim to play a leading role in the sector and set standards. Our team, working for the success of our customers, continues to seek excellence in every project.
 
-## 📞 Support & Contact
+##  Support & Contact
 
 - **Website**: [www.megabre.com](https://www.megabre.com)
 - **Customer Panel**: [my.megabre.com](https://my.megabre.com)
 - **Knowledge Base**: [Blog](https://www.megabre.com/blog/)
 - **Contact**: [Contact Page](https://www.megabre.com/contact.php)
 
-## 📄 License
+##  License
 
 Our open source projects are licensed under the MIT License - see individual project repositories for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
-Built with ❤️ by the Megabre team. Thanks to all our customers, partners, and contributors who make our journey possible.
+Built with by the Megabre team. Thanks to all our customers, partners, and contributors who make our journey possible.
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by [Megabre](https://www.megabre.com)**
+**Made with  by [Megabre](https://www.megabre.com)**
 
-⭐ **Star us on [GitHub](https://github.com/Megabre)** ⭐
+ **Star us on [GitHub](https://github.com/Megabre)** 
 
 [⬆ Back to Top](#about-megabre)
 
