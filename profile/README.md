@@ -28,8 +28,7 @@ With our innovative approaches and strong technical infrastructure, we aim to pl
 ##  Support & Contact
 
 - **Website**: [www.megabre.com](https://www.megabre.com)
-- **Customer Panel**: [my.megabre.com](https://my.megabre.com)
-- **Knowledge Base**: [Blog](https://www.megabre.com/blog/)
+- **Knowledge Base**: [Blog]([https://www.megabre.com/](https://www.megabre.com/knowledgebase))
 - **Contact**: [Contact Page](https://www.megabre.com/contact.php)
 
 ##  License
