@@ -48,7 +48,7 @@ Built with by the Megabre team. Thanks to all our customers, partners, and contr
 
  **Star us on [GitHub](https://github.com/Megabre)** 
 
-[⬆ Back to Top](#about-megabre)
+[Back to Top](#about-megabre)
 
 </div>
 
